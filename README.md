@@ -1,15 +1,8 @@
 # PeView
 
-
- ____  _____  __     ___<br><br>
-|  _ \| ____| \ \   / (_) _____      __<br><br>
-| |_) |  _|    \ \ / /| |/ _ \ \ /\ / /<br><br>
-|  __/| |___    \ V / | |  __/\ V  V /<br><br>
-|_|   |_____|    \_/  |_|\___| \_/\_/<br><br>
-<br>
-         By: LyShark.com                 Version: 3.0
-
-
+<center>
+![image](https://user-images.githubusercontent.com/52789403/179880740-12c9fbb8-8db4-40a3-a558-32f050b8294a.png)
+</center>
 
 
 
