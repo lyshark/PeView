@@ -2,8 +2,8 @@
 
 <div align=center>
   
-![image](https://user-images.githubusercontent.com/52789403/179880740-12c9fbb8-8db4-40a3-a558-32f050b8294a.png)
-  
+![image](https://user-images.githubusercontent.com/52789403/179908447-4332c9d6-6f23-4d89-8209-2389e120bf94.png)
+
 </div>
 
 版本：3.0
