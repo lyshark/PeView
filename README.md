@@ -2,7 +2,7 @@
 
 <div align=center>
   
-![image](https://user-images.githubusercontent.com/52789403/179908447-4332c9d6-6f23-4d89-8209-2389e120bf94.png)
+![image](https://user-images.githubusercontent.com/52789403/179912277-0f00149f-1750-486d-8e5e-6c2cc3d4e7ff.png)
 
 </div>
 
