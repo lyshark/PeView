@@ -10,7 +10,6 @@
 
 [![Build status](https://cdn.lyshark.com/archive/LyScript/build.svg)](https://github.com/lyshark/LyScript) [![Crowdin](https://cdn.lyshark.com/archive/LyScript/email.svg)](mailto:me@lyshark.com)  [![Download x64dbg](https://cdn.lyshark.com/archive/LyScript/x64dbg.svg)](https://github.com/lyshark/LyScript/releases/tag/LyScript) 
 
-
 </div>
 
 <b>版本：3.0</b>
@@ -18,7 +17,7 @@
 <b>发布日期：2021-07-19 13:35</b>
 <br><br>
 
-一款使用C/C++开发实现的命令行版交互式 WindowsPE 程序结构解析器，目前可解析32位可执行程序的大部分通用参数，并内置各种文件查询小功能。
+一款使用C/C++开发实现的命令行版交互式 WindowsPE 程序结构解析器，目前可解析32位可执行程序的大部分通用参数，并内置各种结构查询转换阅览工具。
 
 主要模块功能:
 
