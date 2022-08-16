@@ -4,7 +4,12 @@
 
 <div align=center>
   
-![image](https://user-images.githubusercontent.com/52789403/179912277-0f00149f-1750-486d-8e5e-6c2cc3d4e7ff.png)
+![image](https://user-images.githubusercontent.com/52789403/179912277-0f00149f-1750-486d-8e5e-6c2cc3d4e7ff.png) 
+
+<br>
+
+[![Build status](https://cdn.lyshark.com/archive/LyScript/build.svg)](https://github.com/lyshark/LyScript) [![Crowdin](https://cdn.lyshark.com/archive/LyScript/email.svg)](mailto:me@lyshark.com)  [![Download x64dbg](https://cdn.lyshark.com/archive/LyScript/x64dbg.svg)](https://github.com/lyshark/LyScript/releases/tag/LyScript) 
+
 
 </div>
 
