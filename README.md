@@ -6,39 +6,12 @@
   
 ![image](https://user-images.githubusercontent.com/52789403/179912277-0f00149f-1750-486d-8e5e-6c2cc3d4e7ff.png) 
 
-<br>
-
-[![Build status](https://cdn.lyshark.com/archive/LyScript/build.svg)](https://github.com/lyshark/PeView) [![Crowdin](https://cdn.lyshark.com/archive/LyScript/email.svg)](mailto:me@lyshark.com)  [![Download x64dbg](https://cdn.lyshark.com/archive/peview/download.svg)](https://github.com/lyshark/PeView/releases) 
-
 </div>
 
-<b>版本：3.0</b>
 <br>
-<b>发布日期：2021-07-19 13:35</b>
-<br><br>
 
 PeView 结构解析器，是一款使用C/C++开发实现的命令行交互式 WindowsPE 程序结构解析器，目前可解析32位可执行程序的绝大部分通用参数，并内置各种结构查询转换阅览工具，目前已基本可在工作中使用。
 
-主要模块功能:
-
- - 1.查询PE头数据
- - 2.查询数据目录表
- - 3.查询节表
- - 4.查询所有导入表
- - 5.查询所有导入库
- - 6.查询特定DLL导入表
- - 7.查询特定函数所在位置
- - 8.查询导出表
- - 9.查询重定位项
- - 10.查询重定位表分页
- - 11.查询重定位页内分页
- - 12.查询资源表(一层)
- - 13.检查函数内存地址
- - 14.检查模块保护方式
- - 15.十六进制查阅器
- - 16.目标指纹识别
- - 17.内存FOA/RVA/VA转换
- 
 <br>
 
 **打开PE文件:** 使用`Open`一次性打开文件，只有打开后才可以对其进行其他操作，打开文件需要使用`Open`命令跟路径。
